@@ -1,0 +1,7 @@
+#quiz{
+    display: flex;
+    flex-direction: column;
+    max-width: 600px;
+    line-height: 50px;
+    padding: 20px;
+}
