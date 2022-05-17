@@ -1,0 +1,52 @@
+:root{
+    --color0: gray;
+    --color1: aqua;
+    --background-color: black;
+    --ball-size: 15px;
+}
+
+.spinner-container{
+    height: 100vh;
+    width: 100%;
+    background-color: var(--background-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* spinner1 */
+@keyframes spinner1{
+    0%{transform: rotate(0deg);}
+    100%{transform: rotate(360deg);}
+}
+.spinner1{
+    height: 100px;
+    width: 100px;
+    border: 5px solid var(--color0);
+    border-top: 5px solid var(--color1);
+    border-radius: 50%;
+    position: relative;
+    animation-name: spinner1;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+
+/* spinner2 */
+@keyframes spinner2{
+    0%{transform: rotate(0deg);}
+    100%{transform: rotate(360deg);}
+}
+.spinner2{
+    height: 100px;
+    width: 100px;
+    border-top: 3px solid var(--color1);
+    border-right: 5px solid var(--background-color);
+    border-radius: 50%;
+    position: relative;
+    animation-name: spinner2;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
