@@ -1,0 +1,11 @@
+.BoxAnimations {
+    background-color: blue;
+    margin: 12px;
+    animation-name: in;
+    animation-duration: 3s;
+}
+
+@keyframes in {
+    from {transform: translateX(-100%);}
+    to {transform: translateX(0%);}
+}

@@ -11,7 +11,10 @@ import React from 'react';
 // import CardClassEx from './components-exercises/16-05-22/6.1-class_components/cards/6.1-cards'
 // import Increment from './components-exercises/16-05-22/7.1-increment/Increment';
 // import HideAndSeek from './components-exercises/16-05-22/7.2-hide_and_seek/HideAndSeek';
-import IncrementAndDecrement from './components-exercises/16-05-22/7.3-increment_and_decrement/IncrementAndDecrement'
+// import IncrementAndDecrement from './components-exercises/16-05-22/7.3-increment_and_decrement/IncrementAndDecrement'
+// import LifeCycleMethods from './components-exercises/18-05-22/8.1-life-cycle-methods/8.1-life-cycle-methods';
+// import BoxAnimationsEx from'./components-exercises/18-05-22/8.2-box_animations/8.2-box_animations.jsx';
+// import ChangingBox from './components-exercises/18-05-22/8.3-changing_box/8.3-changing_box';
 
 class App extends React.Component {
   render() {
@@ -27,7 +30,10 @@ class App extends React.Component {
         {/* < CardClassEx /> */}
         {/* < Increment /> */}
         {/* < HideAndSeek /> */}
-        < IncrementAndDecrement />
+        {/* < IncrementAndDecrement /> */}
+        {/* < LifeCycleMethods /> */}
+        {/* < BoxAnimationsEx /> */}
+        {/* < ChangingBox /> */}
 
       </div>
     );
