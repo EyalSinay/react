@@ -12,13 +12,13 @@ import React from 'react';
 // import Increment from './components-exercises/16-05-22/7.1-increment/Increment';
 // import HideAndSeek from './components-exercises/16-05-22/7.2-hide_and_seek/HideAndSeek';
 // import IncrementAndDecrement from './components-exercises/16-05-22/7.3-increment_and_decrement/IncrementAndDecrement'
-// import LifeCycleMethods from './components-exercises/18-05-22/8.1-life-cycle-methods/8.1-life-cycle-methods';
-// import BoxAnimationsEx from'./components-exercises/18-05-22/8.2-box_animations/8.2-box_animations.jsx';
-// import ChangingBox from './components-exercises/18-05-22/8.3-changing_box/8.3-changing_box';
-// import SpinnerEx from './components-exercises/18-05-22/9.1-spinner/9.1-spinner';
-// import ChildToFatherColorsEx from './components-exercises/19-05-22/11.1-child_to_father_colors/11.1-child_to_father_colors';
-// import CheckboxEx from './components-exercises/19-05-22/11.2-checkbox/11.2-checkbox';
-// import FormViewEx from './components-exercises/19-05-22/11.3-form-view/11.3-form-view';
+// import LifeCycleMethods from './components-exercises/17-05-22/8.1-life-cycle-methods/8.1-life-cycle-methods';
+// import BoxAnimationsEx from'./components-exercises/17-05-22/8.2-box_animations/8.2-box_animations.jsx';
+// import ChangingBox from './components-exercises/17-05-22/8.3-changing_box/8.3-changing_box';
+// import SpinnerEx from './components-exercises/17-05-22/9.1-spinner/9.1-spinner';
+// import ChildToFatherColorsEx from './components-exercises/18-05-22/11.1-child_to_father_colors/11.1-child_to_father_colors';
+// import CheckboxEx from './components-exercises/18-05-22/11.2-checkbox/11.2-checkbox';
+// import FormViewEx from './components-exercises/18-05-22/11.3-form-view/11.3-form-view';
 
 class App extends React.Component {
   render() {
