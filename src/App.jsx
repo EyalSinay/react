@@ -22,6 +22,8 @@ import React from 'react';
 // import ChuckNorrisEx from './components-exercises/22-05-22/12.1-chuck_norris/12.1-chuck_norris';
 // import DataMassaging from './components-exercises/22-05-22/13.1-data_massaging/13.1-data_massaging';
 // import AvatarsEx from './components-exercises/22-05-22/13.2-avatars/13.2-avatars';
+// import Focus from './components-exercises/23-05-22/14.1-focus/14.1-focus';
+import Copy from './components-exercises/23-05-22/14.2-copy/14.2-copy';
 
 
 class App extends React.Component {
@@ -47,8 +49,10 @@ class App extends React.Component {
         {/* < CheckboxEx /> */}
         {/* < FormViewEx /> */}
         {/* < ChuckNorrisEx /> */}
-        {/* {< DataMassaging />} */}
-        {/* {< AvatarsEx />} */}
+        {/* < DataMassaging /> */}
+        {/* < AvatarsEx /> */}
+        {/* <Focus /> */}
+        <Copy />
 
       </div>
     );
