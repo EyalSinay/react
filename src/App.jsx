@@ -19,6 +19,10 @@ import React from 'react';
 // import ChildToFatherColorsEx from './components-exercises/18-05-22/11.1-child_to_father_colors/11.1-child_to_father_colors';
 // import CheckboxEx from './components-exercises/18-05-22/11.2-checkbox/11.2-checkbox';
 // import FormViewEx from './components-exercises/18-05-22/11.3-form-view/11.3-form-view';
+// import ChuckNorrisEx from './components-exercises/22-05-22/12.1-chuck_norris/12.1-chuck_norris';
+// import DataMassaging from './components-exercises/22-05-22/13.1-data_massaging/13.1-data_massaging';
+// import AvatarsEx from './components-exercises/22-05-22/13.2-avatars/13.2-avatars';
+
 
 class App extends React.Component {
   render() {
@@ -42,6 +46,9 @@ class App extends React.Component {
         {/* < ChildToFatherColorsEx /> */}
         {/* < CheckboxEx /> */}
         {/* < FormViewEx /> */}
+        {/* < ChuckNorrisEx /> */}
+        {/* {< DataMassaging />} */}
+        {/* {< AvatarsEx />} */}
 
       </div>
     );
