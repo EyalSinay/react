@@ -23,7 +23,8 @@ import React from 'react';
 // import DataMassaging from './components-exercises/22-05-22/13.1-data_massaging/13.1-data_massaging';
 // import AvatarsEx from './components-exercises/22-05-22/13.2-avatars/13.2-avatars';
 // import Focus from './components-exercises/23-05-22/14.1-focus/14.1-focus';
-import Copy from './components-exercises/23-05-22/14.2-copy/14.2-copy';
+// import Copy from './components-exercises/23-05-22/14.2-copy/14.2-copy';
+import ProductsEx from './components-exercises/24-05-22/16.1-products/16.1-products';
 
 
 class App extends React.Component {
@@ -52,7 +53,8 @@ class App extends React.Component {
         {/* < DataMassaging /> */}
         {/* < AvatarsEx /> */}
         {/* <Focus /> */}
-        <Copy />
+        {/* <Copy /> */}
+        <ProductsEx />
 
       </div>
     );
