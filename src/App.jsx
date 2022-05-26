@@ -24,7 +24,8 @@ import React from 'react';
 // import AvatarsEx from './components-exercises/22-05-22/13.2-avatars/13.2-avatars';
 // import Focus from './components-exercises/23-05-22/14.1-focus/14.1-focus';
 // import Copy from './components-exercises/23-05-22/14.2-copy/14.2-copy';
-import ProductsEx from './components-exercises/24-05-22/16.1-products/16.1-products';
+// import ProductsEx from './components-exercises/24-05-22/16.1-products/16.1-products';
+import ToDoListApp from './components-exercises/25-05-22/SimpleToDo/ToDoListApp';
 
 
 class App extends React.Component {
@@ -54,7 +55,8 @@ class App extends React.Component {
         {/* < AvatarsEx /> */}
         {/* <Focus /> */}
         {/* <Copy /> */}
-        <ProductsEx />
+        {/* <ProductsEx /> */}
+        <ToDoListApp/>
 
       </div>
     );
