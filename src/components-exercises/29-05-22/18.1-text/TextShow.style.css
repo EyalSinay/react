@@ -1,0 +1,6 @@
+.read-op{
+    color: blue;
+}
+.read-op:hover{
+    cursor: pointer;
+}

@@ -25,7 +25,11 @@ import React from 'react';
 // import Focus from './components-exercises/23-05-22/14.1-focus/14.1-focus';
 // import Copy from './components-exercises/23-05-22/14.2-copy/14.2-copy';
 // import ProductsEx from './components-exercises/24-05-22/16.1-products/16.1-products';
-import ToDoListApp from './components-exercises/25-05-22/SimpleToDo/ToDoListApp';
+// import ToDoListApp from './components-exercises/25-05-22/SimpleToDo/ToDoListApp';
+// import TextEx from './components-exercises/29-05-22/18.1-text/18.1-text';
+// import SimpleTodoEx from './components-exercises/29-05-22/18.2-simple_todo/18.2-simple_todo';
+// import WhatsTheTimeEx from './components-exercises/29-05-22/18.3-whats_the_time/18.3-whats_the_time';
+// import MarkingAndDeleting from './components-exercises/29-05-22/18.4-marking_and_deleting/18.4-marking_and_deleting';
 
 
 class App extends React.Component {
@@ -56,7 +60,11 @@ class App extends React.Component {
         {/* <Focus /> */}
         {/* <Copy /> */}
         {/* <ProductsEx /> */}
-        <ToDoListApp/>
+        {/* <ToDoListApp/> */}
+        {/* <TextEx/> */}
+        {/* <SimpleTodoEx/> */}
+        {/* <WhatsTheTimeEx /> */}
+        {/* <MarkingAndDeleting/> */}
 
       </div>
     );
