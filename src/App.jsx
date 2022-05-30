@@ -30,6 +30,10 @@ import React from 'react';
 // import SimpleTodoEx from './components-exercises/29-05-22/18.2-simple_todo/18.2-simple_todo';
 // import WhatsTheTimeEx from './components-exercises/29-05-22/18.3-whats_the_time/18.3-whats_the_time';
 // import MarkingAndDeleting from './components-exercises/29-05-22/18.4-marking_and_deleting/18.4-marking_and_deleting';
+// import SimpleFetch from './components-exercises/30-05-22/19.1-simple_fetch/19.1-simple_fetch';
+// import CountriesOfTheWorld from './components-exercises/30-05-22/19.2-countries_of_the_world/19.2-countries_of_the_world';
+// import AlgoliaApi from './components-exercises/30-05-22/19.3-algolia_api/19.3-algolia_api';
+import RefactorFetchWithHooks from './components-exercises/30-05-22/19.4-refactor_fetch_with_hooks/19.4-refactor_fetch_with_hooks';
 
 
 class App extends React.Component {
@@ -65,6 +69,10 @@ class App extends React.Component {
         {/* <SimpleTodoEx/> */}
         {/* <WhatsTheTimeEx /> */}
         {/* <MarkingAndDeleting/> */}
+        {/* <SimpleFetch/> */}
+        {/* <CountriesOfTheWorld/> */}
+        {/* <AlgoliaApi/> */}
+        <RefactorFetchWithHooks />
 
       </div>
     );
