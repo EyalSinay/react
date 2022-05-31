@@ -33,7 +33,11 @@ import React from 'react';
 // import SimpleFetch from './components-exercises/30-05-22/19.1-simple_fetch/19.1-simple_fetch';
 // import CountriesOfTheWorld from './components-exercises/30-05-22/19.2-countries_of_the_world/19.2-countries_of_the_world';
 // import AlgoliaApi from './components-exercises/30-05-22/19.3-algolia_api/19.3-algolia_api';
-import RefactorFetchWithHooks from './components-exercises/30-05-22/19.4-refactor_fetch_with_hooks/19.4-refactor_fetch_with_hooks';
+// import RefactorFetchWithHooks from './components-exercises/30-05-22/19.4-refactor_fetch_with_hooks/19.4-refactor_fetch_with_hooks';
+// import CancelRequest from './components-exercises/31-05-22/20.1-cancel_request/20.1-cancel_request';
+// import Editing from './components-exercises/31-05-22/21.1-editing/21.1-editing';
+// import PlayPauseVideo from './components-exercises/31-05-22/21.2-play_pause_video/21.2-play_pause_video';
+import ImageToggle from './components-exercises/31-05-22/21.3-image_toggle/21.3-image_toggle';
 
 
 class App extends React.Component {
@@ -72,7 +76,11 @@ class App extends React.Component {
         {/* <SimpleFetch/> */}
         {/* <CountriesOfTheWorld/> */}
         {/* <AlgoliaApi/> */}
-        <RefactorFetchWithHooks />
+        {/* <RefactorFetchWithHooks /> */}
+        {/* <CancelRequest /> */}
+        {/* <Editing /> */}
+        {/* <PlayPauseVideo/> */}
+        <ImageToggle/>
 
       </div>
     );
